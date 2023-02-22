@@ -5,5 +5,7 @@ Infrastructure as Code: In this section, students learn how to use tools like Te
 
 Continuous Integration and Continuous Delivery (CI/CD): This section covers the practices of continuous integration and continuous delivery, which are central to the DevOps methodology. Students learn how to use tools like Jenkins and GitLab to automate the process of building, testing, and deploying software.
 
+Monitoring and Logging: This section covers the importance of monitoring and logging in DevOps, and how tools like Nagios and ELK can be used to monitor systems and detect issues in real-time.
 
+Cloud Computing: In this section, students learn how to use cloud platforms like Amazon Web Services (AWS) and Microsoft Azure to deploy and manage applications in the cloud.
 
