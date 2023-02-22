@@ -1,5 +1,9 @@
 COMP 2156 DevOps is a course offered at George Brown College that focuses on the principles and practices of DevOps, which is a software development approach that emphasizes collaboration, automation, and continuous delivery. 
 The course covers a range of topics related to DevOps, including:
 Introduction to DevOps: This section of the course provides an overview of the DevOps methodology, its history, and the benefits it provides to software development teams.
+Infrastructure as Code: In this section, students learn how to use tools like Terraform and Ansible to automate the process of setting up and managing infrastructure.
+
+Continuous Integration and Continuous Delivery (CI/CD): This section covers the practices of continuous integration and continuous delivery, which are central to the DevOps methodology. Students learn how to use tools like Jenkins and GitLab to automate the process of building, testing, and deploying software.
+
 
 
